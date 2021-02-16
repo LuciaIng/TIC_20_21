@@ -10,3 +10,4 @@ main(){
 	printf("El contenido de letra desde su puntero = %c", *pletra);
 	return 0;
 }
+http://maxus.fis.usal.es/FICHAS_C.WEB/01xx_PAGS/0103.html
